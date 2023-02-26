@@ -1,2 +1,2 @@
 # Self-Built-Binaries
-Several binaries from nice projects.
+Several self-built binaries from nice projects.
